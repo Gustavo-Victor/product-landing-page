@@ -1,3 +1,4 @@
+/*variables*/
 :root {
     --bodyBgColor: #eee;
     --bodyBgColor2: #ddd;
@@ -5,9 +6,9 @@
     --btnColor: #f1c40f;
     --iconColor: darkorange;
     --footerColor: #444;
-
 }
 
+/*reset*/
 *, *::before, *::after {
      margin: 0;
      padding: 0;
